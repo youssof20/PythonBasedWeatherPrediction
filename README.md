@@ -32,5 +32,5 @@ The application helps users track weather patterns and understand trends across 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/weather-visualizer.git
-   cd weather-visualizer
+   git clone https://github.com/youssof20/PythonBasedWeatherPrediction.git
+   cd PythonBasedWeatherPrediction
