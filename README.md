@@ -1,5 +1,3 @@
-# PythonBasedWeatherPrediction
-
 # Python-Based Weather Prediction Visualizer
 
 ## Overview
